@@ -1,3 +1,3 @@
 
-for i in range(1, 46)
+for i in range(1, 46):
     print(i)
